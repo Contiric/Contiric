@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey everyone! 👋
+My name is Ricardo Conti, I´m from Brazil 🇧🇷
+I'm a student of software programming, and I´m available for a job opportunity.  💻
+  💻
 
-<!--
-**Contiric/Contiric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Always looking for new learnings and technologies. Open mind to learn more.
 
-Here are some ideas to get you started:
+### 🌍 "O conhecimento dirige a prática, e a prática aumenta o conhecimento." 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 From RJ
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ricardo-conti-a83829110/)](https://www.linkedin.com/in/ricardo-conti-a83829110/) 
