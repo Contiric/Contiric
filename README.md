@@ -2,7 +2,6 @@
 My name is Ricardo Conti, I´m from Brazil 🇧🇷
 
 I'm a student of software programming, and available for a job opportunity.  💻
-  💻
 
 Always looking for new learnings and technologies. Open mind to learn more.
 
